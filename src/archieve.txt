@@ -1,0 +1,17 @@
+da943c3832295f7549110922745683de ///key
+
+netflix-clone-f64f2
+
+https://api.themoviedb.org/3/movie/550?api_key=da943c3832295f7549110922745683de ///
+
+npm i axios  
+npm i react-youtube 
+npm i movie-trailer
+npm install -g firebase-tools
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope CurrentUser      
+firebase login
+firebase init
+        - hoisting
+        -build
+ npm run build  
+ firebase deploy
